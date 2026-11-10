@@ -1,0 +1,81 @@
+﻿Vendor,URL,Origin,Associated products
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/CTV.HTML,AMXT,1
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/CLR.HTML,AMXT,1
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/EJT.HTML,AMXT,1
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML,AMXT,16
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/PSQ.HTML,AMXT,1
+Broadcom,https://ftpdocs.broadcom.com/WebInterface/phpdocs/0/MSPSaccount/COMPAT/AL0.HTML,AMXT,2
+BMC,https://docs.bmc.com/xwiki/bin/view/Standalone/BMC-Product-Compatibility/compatibility,AMXT,176
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=0ABD8D91EF664D67BD1A77442F29B0D2&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=2D3CAD90BFFA11E7AD0EC24C9513D95F&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=124A61B0317511E9A2FA4C3A720B6697&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=08E27C600C8011EBAF26D4C35A18A281&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=6542043DD98F40668888A288F71DB368&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=AEA0E7E00C8011EBAF26D4C35A18A281&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/docs/en/idr/11.4.0?topic=rn-release-notes-infosphere-classic-cdc-zos-version-113-mq-publishing-ptfs-ui28936-ui28937,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1BBEEC90FD4811E8A7B4997D5726EF76&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=A59B6800AFDD11EAB9117899910938C8&osPlatforms=z/OS&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=E5678D706BCF11E6865BC3F213DB63F7&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=89E083EC8CE14BBCA6CAB4F5DB307C5E&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/softwareReqsForProduct?deliverableId=3BCCCEA017BB11E6B9DB71A15D06730A&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/prereqsForProduct?deliverableId=8E92B300592A11ECB7241FF603469C11&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=9&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=111FB08D410542F9B23442575F9A401E&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=572493D0590B11ECB7241FF603469C11&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=FD513049E5204E92AFFC27E995206792&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=218CA2470429462EB2BC62CD566F4030&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=8C272B1BA1BD4B5196B483B88766F9E0&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=48458E79A08F428DA140BFD97433A6CB&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1281678021812&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1217357689034E0F9D80B528BF81B852&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=DCC6690DBBA64B0BA8DFF0B37A6C8527&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1389153111119&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=888DD9CF23C9481EBC586F35C03C7DAA&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/index.html?name=IBM%20Z%20Development%20and%20Test%20Environment,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/product.html?id=B1793BD030E111ECBA9C27C416BBDB8F,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=F79CF460D8B911EBAA175CFD3E629A2A&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=D219C2C25ECD4F51B73D3FD357D93742&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=EBCE5192C8FF46BFAA0C0A357D7CC351&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=BB75AE3BC9FE4FEB9E9D3AECD4D9B7E9&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=CE0A3060EB104BA6881A5EC4FE3C3C2E&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=3DFF62E917BB40478C31B99EA4C4F7EB&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=E386FAC0424911E8845013686FEEAB8B&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=7D442C80585F11ECB7241FF603469C11&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=F8977CD0D8C011EBAA175CFD3E629A2A&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,2
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1285553989198&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=1357267705849&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=CCE3DE7C0F7B4D76AA3C7A8C13A2F555&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=9D99722A42CE4DF7A48614601CC45B39&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=040A7120C49011EB82DB8CC9441FD31C&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/product.html?id=522683809FDC11ECAB2681C6B89D4420,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/product.html?id=9E829110D9E311E7AD0EC24C9513D95F,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=296184E0BDA111E6850FCEFFCB21B294&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity-reports/report/html/osForProduct?deliverableId=13736170D91811E696821F2CAD9E9BCA&osPlatforms=spcrAllValues&duComponentIds=spcrAllValues&mandatoryCapIds=spcrAllValues&optionalCapIds=spcrAllValues,AMXT,1
+IBM,https://www.ibm.com/software/reports/compatibility/clarity/index.html,Workbook Sheet1,83
+IBM,https://www.ibm.com/docs/en/zos/3.2.0?topic=installation-software-requirements-running-zos-32,Curated official source,0
+IBM,https://www.ibm.com/new/announcements/ibm-z-os-3-2-unlocks-the-value-of-ibm-z17,Curated official source,0
+IBM,https://www.ibm.com/support/pages/detailed-system-requirements-cics-ts-and-related-products,Curated official source,4
+IBM,https://www.ibm.com/support/pages/announcements-cics-products,Curated official source,0
+IBM,https://www.ibm.com/support/pages/lifecycle,Curated official source,0
+Broadcom,https://ftpdocs.broadcom.com/phpdocs/0/MSPSaccount/COMPAT/zos_compat.HTML,Curated official source,211
+Broadcom,https://knowledge.broadcom.com/external/article/18439/how-to-find-endevor-compatibilities-matr.html,Curated official source,0
+BMC,https://www.bmc.com/support/resources/os390-and-zos-compatibilty.html,Curated official source,1
+BMC,https://docs.bmc.com/xwiki/bin/view/Mainframe/Ops/BMC-AMI-Capacity-Management/bacm263/Planning-and-installing/System-requirements-for-product-installation/Support-matrix,Curated official source,0
+BMC,https://www.bmc.com/it-solutions/bmc-ami-latest-release-oct-2025.html,Curated official source,1
+BMC,https://docs.bmc.com/docs/controlm/9020/control-m-compatibility-for-version-9-0-20-900847337.html,Curated official source,1
+Rocket,https://www.rocketsoftware.com,Curated official source,0
+Precisely,https://community.precisely.com/discussion/ironstream-for-zos-v2112-service-pack-notice,Curated official source,0
+Precisely,https://community.precisely.com/discussion/ironstream-for-ibm-z-now-compatible-with-zos-32,Curated official source,1
+Precisely,https://www.precisely.com/support/mfx-support-lifecycle-schedule,Curated official source,3
+Precisely,https://support.precisely.com/products/syncsort-mfx,Curated official source,0
+21CS,https://21cs.com,Curated official source,0
+Action Software International,https://actionsoftware.com/support-form/release-history,Curated official source,0
+"Chicago-Soft, Ltd",https://chicago-soft.com,Curated official source,0
+"NewEra Software, Inc.",https://www.newera-info.com,Curated official source,0
+VANGUARD Integrity Prof.,https://www.go2vanguard.com/product-support-eol-schedule,Curated official source,0
+ASG,https://www.rocketsoftware.com/sites/default/files/resource_files/tmon-zos.pdf,Curated official source,1
+Rocket,https://www.rocketsoftware.com/node/56111,vendor CSV,1
+Rocket,https://www.rocketsoftware.com/node/56336,vendor CSV,1
+Rocket,https://www.rocketsoftware.com/sites/default/files/resource_files/tmon-zos.pdf,vendor CSV,1
+ASG,https://www.rocketsoftware.com,vendor CSV,2
+BMC,https://docs.bmc.com/docs/display/baofd71,vendor CSV,1
+BMC,https://docs.bmc.com/docs/display/BHU131,vendor CSV,1
